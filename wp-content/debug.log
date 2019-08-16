@@ -1,0 +1,4 @@
+[16-Aug-2019 04:13:27 UTC] PHP Warning:  mysqli_real_connect(): MySQL server has gone away in C:\xampp\htdocs\pws\wp-includes\wp-db.php on line 1612
+[16-Aug-2019 04:13:27 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=3524 in C:\xampp\htdocs\pws\wp-includes\wp-db.php on line 1612
+[16-Aug-2019 04:13:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\pws\wp-includes\wp-db.php on line 1612
+[16-Aug-2019 04:13:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\pws\wp-includes\wp-db.php on line 1612
